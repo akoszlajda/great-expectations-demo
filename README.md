@@ -13,7 +13,6 @@ B. What was done?
   - Python 3.11.8 (compatible with GX 1.1.1)
   - Venv used to create virtual environment
   - Jupyter for running scripts
-  - Free version of ChatGPT for Q&A sessions
   - In GX 1.1.1 following sctructure needs to be implemented:
     Context
      -> Datasource
